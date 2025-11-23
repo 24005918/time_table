@@ -33,7 +33,7 @@ Execute the program using runserver command.
     
         <body>
             <center><img src="saveetha title logo.png" height="150" width="600"></center>
-            <center><h3>THARUN.V(24005351)</h3></center>
+            <center><h3>SANTHOSH.V(24005918)</h3></center>
             <style>
                
                 table{
