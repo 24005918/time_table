@@ -148,7 +148,7 @@ Execute the program using runserver command.
 </html>
 ````
 # OUTPUT
-![Screenshot 2024-12-12 200550](https://github.com/user-attachments/assets/611fc389-fa13-4055-b158-739a7b0fb036)
+<img width="1536" height="883" alt="SANTHOSH V(212224230252)" src="https://github.com/user-attachments/assets/be3f9800-709e-4d66-a05d-588a422edb02" />
 
 
 # RESULT
